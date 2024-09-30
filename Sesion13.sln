@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoBurbuja", "MetodoBurbuja\MetodoBurbuja.csproj", "{233E8712-2658-414F-AAAF-A7F530B00AB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registro", "Registro\Registro.csproj", "{AD030241-EB59-4741-BB99-07748592F6B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{233E8712-2658-414F-AAAF-A7F530B00AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{233E8712-2658-414F-AAAF-A7F530B00AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{233E8712-2658-414F-AAAF-A7F530B00AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD030241-EB59-4741-BB99-07748592F6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD030241-EB59-4741-BB99-07748592F6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD030241-EB59-4741-BB99-07748592F6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD030241-EB59-4741-BB99-07748592F6B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
